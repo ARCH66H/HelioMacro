@@ -4,5 +4,5 @@ The official HelioMacro for games or automation!
 Beta V0.3, its very nice, including Macros, Autoclickers, even Hotkeys!
 
 
-
+click the funny button \/
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4M626IIIX)
